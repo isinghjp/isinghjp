@@ -8,9 +8,9 @@
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🌱 I’m currently learning **Spring, SpringBoot, API , Microservices**
+- 🌱 I’m currently learning **Devops, Agile, Scrum , Kubernetes**
 
-- 💬 Ask me about **Core Java, Advanced Java, Full Stack Development, MySQL, Oracle, Linux**
+- 💬 Ask me about **Core Java, Advanced Java, Full Stack Development, MySQL, Oracle,Spring, SpringBoot, API , Microservices, Linux**
 
 - 📫 How to reach me **jpkumar541@gmail.com**
 
